@@ -22,7 +22,8 @@
   "homepage": "https://github.com/yaseenrehan123/backend-template#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
